@@ -11,10 +11,10 @@ Load cleaned data from "calwater_cleaning" notebook.
 import delimited "$dir/calwater_data.csv", clear
 
 * Basic cleaning to optimize for Stata analysis
-gen time_mid = date(reporting_month, "YMD")
+gen time_mid = date(date, "YMD")
 gen time = mofd(time_mid)
 
-gen month = month(time_mid)
+// gen month = month(time_mid)
 gen year = year(time_mid)
 
 format time %tm
@@ -56,10 +56,11 @@ xtset supplier_id time
 
 /*
 We set the panel to urban water supplier; however, because ownership does not vary
-within each supplier we will implement county fixed effects. Suppliers 
-within the same geographic area will likely be subject to the same environmental
-and demographic constraints, making county an effective proxy while still
-allowing ownership to vary.
+within each supplier we will implement hydro region fixed effects. Suppliers 
+within the same geographic area will likely be subject to the similar environmental
+constraints, making hydro region an effective proxy while still
+allowing ownership to vary. We also try county fixed effects for robustness
+but will focus on hydrologic region so that we have fewer controls.
 
 Additionally, in the final model, we will include month fixed effects in order
 to control for the clear seasonal pattern seen in the graph above.
@@ -75,7 +76,9 @@ reg log_gpcd public nonprofit
 
 reg log_gpcd public nonprofit, vce(cluster supplier_name)
 
-reghdfe log_gpcd public nonprofit, vce(cluster supplier_name) absorb(county_id)
+reghdfe log_gpcd public nonprofit, vce(cluster supplier_name) absorb(hydro_id)
+
+reghdfe log_gpcd public nonprofit, vce(cluster supplier_name) absorb(hydro_id month)
 
 reghdfe log_gpcd public nonprofit, vce(cluster supplier_name) absorb(county_id month)
 
@@ -86,6 +89,5 @@ reghdfe log_gpcd public nonprofit, vce(cluster supplier_name) absorb(county_id m
 
 predict pred_gpcd, xb
 
-twoway scatter pred_gpcd time
 
 
