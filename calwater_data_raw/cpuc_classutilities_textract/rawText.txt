@@ -1,0 +1,532 @@
+
+CALIFORNIA PUBLIC UTILITIES COMMISSION
+UNILITIES
+$
+OF
+REGULATED WATER UTILITIES
+(From 2018 Annual Reports)
+TOTAL WATFR UTILITIFS = 93
+Class
+Service Connections
+Count
+Class A
+> 10,000
+a
+Class R
+2,000 <> 10,000
+4
+Class C
+500 <> 2,000
+1°
+Class D
+< 500
+61
+TOTAL SFWFR UTILITIFS = 12
+December 23, 2019
+CALIFORNIA PUBLIC UTILITIES COMMISSION
+Chan
+TOTAL WATFR SFRVICE CONNFCTIONS = 1,509,946
+Class
+Total Service Connections
+Class A
+1,459,7°2
+Class R
+23,303
+Class C
+18,715
+Class D
+8,136
+TOTAL SFWFR SFRVICE CONNFCTIONS = 5,610
+Detailed Service Connection Data
+(Metered & Flat)
+CLASS A
+Utility
+Active
+Inactive
+Total
+California Water Service Company
+524,696
+0
+524,696
+California-American Water Company
+192,374
+0
+192,374
+Golden State Water Company
+260,055
+0
+260,055
+Great Oaks Water Company
+21,643
+0
+21,643
+Liberty Utilities (Apple Valley Ranchos)
+23,484
+0
+23,484
+Liberty Utilities (Park Water)
+29,375
+0
+29,375
+San Gabriel Valley Water Company
+105,649
+0
+105,649
+San Jose Water Company
+226,265
+0
+226,265
+Suburban Water Systems *2017 AR*
+76,251
+0
+76,251
+Total Class A
+1,459,792
+0
+1,459,792
+CLASS B
+Utility
+Active
+Inactive
+Total
+Alisal Water Corporation (Alco)
+9,166
+0
+9,166
+Bakman Water Company
+2,625
+0
+2,625
+Del Oro Water Company
+6,274
+2,221
+8,495
+East Pasadena Water Company
+3,017
+0
+3,017
+Total Class B
+21,082
+2,221
+23,303
+Page 2 of 6
+December 23, 2019
+CALIFORNIA PUBLIC UTILITIES COMMISSION
+CLASSC
+Utility
+Active
+Inactive
+Total
+Agate Bay Water Company *2017 AR*
+583
+0
+583
+Bass Lake Water Company
+1,069
+0
+1,069
+Big Basin Water Company
+606
+0
+606
+Cold Springs Water Company
+535
+0
+535
+Erskine Creek Water Company * 2017 AR*
+1,136
+0
+1,136
+Fulton Water Company
+982
+0
+982
+Graeagle Water Company
+1,017
+0
+1,017
+Little Bear Water Company * 2014 AR*
+699
+0
+699
+Lukins Brothers Water Company
+979
+0
+979
+Nacimiento Water Company
+649
+0
+649
+North Gualala Water Company
+1,029
+0
+1,029
+Penngrove Water Company
+852
+0
+852
+Rogina Water Company * 2017 AR*
+1,005
+0
+1,005
+Sea Ranch Water Company, The
+1,859
+0
+1,859
+Searles Domestic Water Company
+805
+0
+805
+Southern California Edison
+1,915
+0
+1,915
+Tahoe Park Water Company
+539
+0
+539
+Weimar Water Company
+554
+0
+554
+Yosemite Spring Park Utility Company
+1,902
+0
+1,902
+Total Class C
+18,715
+0
+18,715
+CLASS D
+Utility
+Active
+Inactive
+Total
+Alpine Village Water Company
+47
+7
+54
+Arroyo Center Water Company
+60
+2
+62
+Baycliff Water
+57
+0
+57
+California Hot Springs Water & Sewer Company
+26
+0
+26
+Canada Woods Water Company
+236
+0
+236
+Casmite Corporation, The
+13
+0
+13
+Cazadero Water Company
+151
+0
+151
+Central Camp Water Company
+90
+13
+103
+Page 3 of 6
+December 23, 2019
+CALIFORNIA PUBLIC UTILITIES COMMISSION
+CLASS D (Continued)
+Utility
+Active
+Inactive
+Total
+Cobb Mountain Water Company
+62
+2
+64
+Cottage Springs Water Company *2008 AR*
+16
+0
+16
+Easton Estates Water Company
+104
+4
+108
+Foothill Ditch Company
+18
+10
+28
+Goodyears Bar Water Company
+13
+0
+13
+Havasu Water Company
+211
+13
+224
+Interstate 5 Utility Company *2017 AR*
+20
+0
+20
+January Water Company (Ali Mutual) * 2013 AR*
+15
+0
+15
+Keene Water System
+26
+10
+36
+Kenwood Village Water Company
+336
+38
+374
+Lake Alpine Water Company
+493
+6
+499
+Lakeview Water Company
+10
+2
+12
+Las Flores Water Works *2017 AR*
+63
+12
+75
+Live Oak Springs Water Company
+94
+4
+98
+Llano Del Rio Water Company
+189
+0
+189
+Long Canyon Water Company
+66
+5
+71
+Lytle Springs Water Company
+141
+13
+154
+Macdoel Water Works
+MISSING DATA
+Meadow Valley Water Works
+14
+0
+14
+Mecchi Water Service *2017 AR*
+29
+0
+29
+Meyers Water Company
+99
+0
+99
+MHC Acquisition One
+206
+0
+206
+Mira Monte Water Company * 2017 AR*
+47
+0
+47
+Mountain Mesa Water Company
+411
+28
+439
+Owens Valley Water Company 2016 AR*
+111
+0
+111
+Pierpoint Springs Water Company
+98
+2
+100
+Pinon Valley Water Company
+39
+6
+45
+Point Arena Water Works
+197
+30
+227
+PureSource Water
+77
+3
+80
+R.R. Lewis Small Water Company
+134
+54
+188
+Ramona Water Company *2015 AR*
+65
+0
+65
+Page 4 of 6
+December 23, 2019
+CALIFORNIA PUBLIC UTILITIES COMMISSION
+CLASS D (Continued)
+Utility
+Active
+Inactive
+Total
+Redwood Lodge Water Company
+14
+0
+14
+Riverview Estates Water Company * 2016 AR*
+17
+0
+17
+Rolling Green Utilities
+285
+0
+285
+Sequoia Crest Water Company
+131
+1
+132
+Sereno Del Mar Water Company
+136
+33
+169
+Sierra City Water Works
+88
+0
+88
+Sierra Park Water Company
+346
+0
+346
+Slide Inn/Snobowl Water Company
+139
+0
+139
+Sonoma Springs Water Company
+21
+0
+21
+Sonora Water Company
+112
+0
+112
+Spreckels Water Company
+317
+18
+335
+Springcrest Water Company * 2015 AR*
+9
+0
+9
+Stone Creek Water Company
+20
+0
+20
+Susan River Park Water Company
+56
+0
+56
+Tahoe Swiss Village Utility
+451
+0
+451
+Twin Lakes Enterprises
+169
+0
+169
+Twin Valley *2015 AR*
+96
+0
+96
+Vista Grande Water System 2017 AR*
+157
+0
+157
+Warring Water Service
+493
+119
+612
+West San Martin Water Works
+302
+0
+302
+West Water Company
+7
+6
+13
+Yerba Buena Water Company
+245
+0
+245
+Total Class D
+7,695
+441
+8,136
+GRAND TOTAL WATER
+1,507,284
+2,662
+1,509,946
+Page 5 of 6
+December 23, 2019
+CALIFORNIA PUBLIC UTILITIES COMMISSION
+CEWER
+Utility
+Active
+Inactive
+Total
+Big Basin Sanitation
+29
+0
+29
+California Hot Springs Water & Sewer Company
+26
+0
+26
+California Utilities Service
+1,115
+8
+1,123
+California-Americar Water Company
+2,697
+0
+2,697
+Canada Woods Water Company
+147
+0
+147
+Cypress Ridge Sewer Company
+386
+0
+386
+Golden Hills Sanitation Company
+190
+68
+258
+Interstate 5 Utility Company * 2017 AR*
+20
+0
+20
+Little Bear Water Company * 2014 AR*
+393
+0
+393
+MHC Acquisition One
+206
+0
+206
+Mayacama Golf Club
+40
+0
+40
+Rolling Green Utilities
+285
+0
+285
+Total Sewer
+5,534
+76
+5,610
+Page 6 of 6
+December 23, 2019
