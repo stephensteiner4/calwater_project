@@ -4,6 +4,8 @@ Urban water supplier monitoring reports (canra_watersuppliermonitoring.csv)
 https://data.cnra.ca.gov/dataset/drinking-water-public-water-system-operations-monthly-water-production-and-conservation-informa/resource/70c09d4e-d69b-4c21-b511-a7e6f5a477c5
 Date accessed: 3-23-2021
 
+Still available at: https://data.cnra.ca.gov/dataset/drinking-water-public-water-system-operations-monthly-water-production-and-conservation-informa
+
 
 map_regwaterutility
 http://www.calwaterassn.com/about-cwa/regulated-water-utilities-in-california/
