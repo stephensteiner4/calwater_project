@@ -62,10 +62,11 @@ Looking at the diagnostics plot, there is some deviation from the 45-degree line
 
 I’ve defined crisis as being in a shortage stage of 2 or greater. The table below suggests that month is not a very important indicator for whether or not the utility company will be in a state of shortage while year does suggest that crises became less likely over time.
  
+![alt text](http://github.com/stephensteiner4/calwater_project/blob/main/calwater_output/final_project41100/glm_modeloutput.png)
 ![alt text](https://github.com/stephensteiner4/calwater_project/blob/main/calwater_output/final_project41100/table_monthVcrisis.png)
+![alt text](https://github.com/stephensteiner4/calwater_project/blob/main/calwater_output/final_project41100/table_yearVcrisis.png)
 
 In the GLM model to predict likelihood of being in crisis, the odds of Mutual Water companies and Public entities being in a state of crisis are 263% and 60% higher than For-Profit companies in South Lake. While the results for Tulare Lake contradict the South Coast findings, we have a much more robust sample in South Lake for each group per hydrologic region vs. ownership table above. If the 1-2 For-Profit companies in Tulare Lake and Sacramento River are simply run not as well, then this would construe the results in favor of the other ownership groups.
 
-![alt text](http://github.com/stephensteiner4/calwater_project/blob/main/calwater_output/final_project41100/glm_modeloutput.png)
 
 Taken together, although the results are a little mixed, they suggest that Public entities and Mutual Water companies manage their water supply less efficiently if we put more weight on the South Coast hydrologic region because we have a more robust supplier sample in that region.
