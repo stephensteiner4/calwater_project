@@ -5,6 +5,8 @@ Project analyzing urban freshwater consumption in California and the effects of 
 
 As water becomes increasingly scarce, it will become increasingly important to design water management regimes that effectively and efficiently manage their water supply. In this analysis, I am trying to determine which group of water suppliers most efficiently manage their water supply: For-Profit companies, Public entities, or Mutual Water companies (i.e., companies that are owned by end-users). To investigate this, I use a dataset of Water Supplier Monthly Water Conservation reports from the California State Water Board. In 2014, the Board mandated that large urban water suppliers had to submit monthly water consumption figures and disclose what water conservation stage they were in. The compiled reports range from June 2014 to January 2021.
 For this analysis, I focus on residential consumption in three counties in which all ownership groups can be found: Los Angeles, Kern, and Sacramento. I limited the scope to residential consumers to keep the analysis a little less complicated, but total monthly industrial and residential water consumption can be seen below.
+
+![alt text](https://github.com/stephensteiner4/calwater_project/blob/main/calwater_output/final_project41100/line_sumwater.png)
  
 ## Data Description
 
