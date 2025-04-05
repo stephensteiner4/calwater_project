@@ -1,11 +1,13 @@
 # California Freshwater Analysis
 Project analyzing urban freshwater consumption in California and the effects of different ownership types on consumption.
 
-Introduction
+## Introduction
+
 As water becomes increasingly scarce, it will become increasingly important to design water management regimes that effectively and efficiently manage their water supply. In this analysis, I am trying to determine which group of water suppliers most efficiently manage their water supply: For-Profit companies, Public entities, or Mutual Water companies (i.e., companies that are owned by end-users). To investigate this, I use a dataset of Water Supplier Monthly Water Conservation reports from the California State Water Board. In 2014, the Board mandated that large urban water suppliers had to submit monthly water consumption figures and disclose what water conservation stage they were in. The compiled reports range from June 2014 to January 2021.
 For this analysis, I focus on residential consumption in three counties in which all ownership groups can be found: Los Angeles, Kern, and Sacramento. I limited the scope to residential consumers to keep the analysis a little less complicated, but total monthly industrial and residential water consumption can be seen below.
  
-Data Description
+## Data Description
+
 In determining efficiency of water management, I focus on two variables: Residential Gallons Per Capita Day (GPCD) and water shortage stage. 
 GPCD: Water suppliers report estimates of the gallons of water per person per day by residential customers it serves. GPCD is calculated using the following formula:
 
@@ -41,7 +43,8 @@ The suppliers most frequently find themselves in stages 1-3.
 
  
 
-Modeling Average Daily Water Consumption by Ownership Group via OLS
+## Modeling Average Daily Water Consumption by Ownership Group via OLS
+
 The regression below tests whether or not consumers across ownership groups consume the same amount of water controlling for seasonality, share of residential consumers, and not being in a “disaster” (defined as being shortage stage 4 or higher). I’m also clustering standard errors around water supplier. Disaster likely has a positive coefficient because the suppliers that reached a ‘disaster’ stage tend to have higher log(GPCD) [non-disaster suppliers have a median log(GPCD) value of 4.44 compared to 4.55 for disaster suppliers like the city of Beverly Hills; see shortage stage box plot above].
 Mutual companies’ consumers use 52.3% and 14.9% more water per day in Tulare Lake and Sacramento River hydrologic regions, respectively, than For-Profit entities and Public consumers use 12.4% and 12.2% more water per day in Tulare Lake and South Coast, respectively. We cannot reject the null hypothesis that consumption is the same in other regions.
  
@@ -50,7 +53,8 @@ Looking at the diagnostics plot, there is some deviation from the 45-degree line
  
 
 
-Odds of Crisis
+## Odds of Crisis
+
 I’ve defined crisis as being in a shortage stage of 2 or greater. The table below suggests that month is not a very important indicator for whether or not the utility company will be in a state of shortage while year does suggest that crises became less likely over time.
  
  
